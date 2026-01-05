@@ -16,5 +16,5 @@ It includes basic implementations of Short Polling, Long Polling, WebSockets, Se
 - Build strong backend fundamentals
 - Prepare for system design and interview discussions
 
-# Status of this repo
+# 🚀 Status of this repo
   - Work In Progress
