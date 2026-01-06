@@ -1,22 +1,22 @@
 {
-  "name": "next-page-router",
+  "name": "next-app-router",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint",
-    "json-server": "json-server --watch --port 4000 ./data/db.json"
+    "lint": "eslint"
   },
   "dependencies": {
-    "json-server": "^1.0.0-beta.3",
     "next": "16.1.1",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4",
     "eslint": "^9",
-    "eslint-config-next": "16.1.1"
+    "eslint-config-next": "16.1.1",
+    "tailwindcss": "^4"
   }
 }
